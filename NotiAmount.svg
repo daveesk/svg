@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="419" height="207" viewBox="0 0 419 207">
+  <defs>
+    <filter id="Rectangle_1093" x="0" y="0" width="419" height="207" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_913" data-name="Group 913" transform="translate(-1254 -589)">
+    <g transform="matrix(1, 0, 0, 1, 1254, 589)" filter="url(#Rectangle_1093)">
+      <rect id="Rectangle_1093-2" data-name="Rectangle 1093" width="401" height="189" rx="18" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Amount" transform="translate(1308 620)" fill="#313131" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Amount</tspan></text>
+    <text id="_827.00" data-name="827.00" transform="translate(1324 737)" fill="#313131" font-size="90" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">827.00</tspan></text>
+    <text id="_" data-name="€" transform="translate(1308 682)" fill="#313131" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">€</tspan></text>
+  </g>
+</svg>
