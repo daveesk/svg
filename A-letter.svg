@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="543" height="505" viewBox="0 0 543 505">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.302" y1="0.5" x2="1.066" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004d81"/>
+      <stop offset="0.305" stop-color="#024779"/>
+      <stop offset="0.773" stop-color="#083763"/>
+      <stop offset="1" stop-color="#0c2e57"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.043" y1="0.029" x2="1.043" y2="1.083" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00458c"/>
+      <stop offset="1" stop-color="#1a96c3"/>
+    </linearGradient>
+  </defs>
+  <g id="Logo_imagen" data-name="Logo imagen" transform="translate(-200 -681)">
+    <ellipse id="Ellipse_279" data-name="Ellipse 279" cx="231.5" cy="227.5" rx="231.5" ry="227.5" transform="translate(280 681)" fill="#d7e9f4"/>
+    <g id="logo_Open_ax" data-name="logo Open ax" transform="translate(280.95 508.313)">
+      <path id="Path_3613" data-name="Path 3613" d="M130.146,360.07A83.157,83.157,0,1,0,213.3,443.227,83.157,83.157,0,0,0,130.146,360.07ZM129.8,483.084c-21.159,0-38.314-18.46-38.314-41.232s17.155-41.235,38.314-41.235,38.312,18.462,38.312,41.235S150.961,483.084,129.8,483.084Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="Path_3614" data-name="Path 3614" d="M111.063,360.07H163.75L245.3,526.383H189.865Z" transform="translate(22.748 0)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="Ellipse_278" data-name="Ellipse 278" transform="translate(200 731)" fill="none" stroke="#246ca6" stroke-linecap="round" stroke-width="5" stroke-dasharray="20">
+      <ellipse cx="231.5" cy="227.5" rx="231.5" ry="227.5" stroke="none"/>
+      <ellipse cx="231.5" cy="227.5" rx="229" ry="225" fill="none"/>
+    </g>
+  </g>
+</svg>
